@@ -18,6 +18,5 @@
     "psr-4": {
       "Moonlay\\CustomRegister\\": ""
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
